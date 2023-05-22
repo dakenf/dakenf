@@ -25,16 +25,16 @@
 <br/>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dakenf&repo=stable-diffusion-nodejs&show_owner=true&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515)](https://github.com/dakenf/stable-diffusion-nodejs)
+[![Readme Card](https://github-readme-stats-alpha-rouge.vercel.app/api/pin/?username=dakenf&repo=stable-diffusion-nodejs&show_owner=true&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515)](https://github.com/dakenf/stable-diffusion-nodejs)
 <img width="16"/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dakenf&repo=onnxruntime-node-gpu&show_owner=true&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515)](https://github.com/dakenf/onnxruntime-node-gpu)
+[![Readme Card](https://github-readme-stats-alpha-rouge.vercel.app/api/pin/?username=dakenf&repo=onnxruntime-node-gpu&show_owner=true&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515)](https://github.com/dakenf/onnxruntime-node-gpu)
 
 ### 👀 GitHub Stats
 
 <div>
-  <img height="160" style="margin-right:12px" src="https://github-readme-stats.vercel.app/api?username=dakenf&count_private=true&show_icons=true&theme=radical&title_color=fff&text_color=ffffff&icon_color=90774f&bg_color=151515"/>
+  <img height="160" style="margin-right:12px" src="https://github-readme-stats-alpha-rouge.vercel.app/api?username=dakenf&count_private=true&show_icons=true&theme=radical&title_color=fff&text_color=ffffff&icon_color=90774f&bg_color=151515"/>
   <img width="16"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakenf&layout=compact&title_color=fff&text_color=ffffff&icon_color=90774f&bg_color=151515&hide=php"/>
+  <img height="160" src="https://github-readme-stats-alpha-rouge.vercel.app/api/top-langs/?username=dakenf&layout=compact&title_color=fff&text_color=ffffff&icon_color=90774f&bg_color=151515&hide=php"/>
 </div>
 
 <br/>
