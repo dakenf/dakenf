@@ -25,11 +25,7 @@
 <br/>
 <br/>
 
-[![Readme Card](https://github-readme-stats-alpha-rouge.vercel.app/api/pin/?username=dakenf&repo=stable-diffusion-webgpu-minimal&show_owner=true&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515)](https://github.com/dakenf/stable-diffusion-webgpu-minimal)
-<img width="16"/>
-[![Readme Card](https://github-readme-stats-alpha-rouge.vercel.app/api/pin/?username=dakenf&repo=stable-diffusion-nodejs&show_owner=true&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515)](https://github.com/dakenf/stable-diffusion-nodejs)
-<img width="16"/>
-[![Readme Card](https://github-readme-stats-alpha-rouge.vercel.app/api/pin/?username=dakenf&repo=onnxruntime-node-gpu&show_owner=true&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515)](https://github.com/dakenf/onnxruntime-node-gpu)
+[![Readme Card](https://github-readme-stats-alpha-rouge.vercel.app/api/pin/?username=dakenf&repo=diffusers.js&show_owner=true&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515)](https://github.com/dakenf/diffusers.js)
 
 ### 👀 GitHub Stats
 
